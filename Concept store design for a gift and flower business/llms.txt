@@ -1,0 +1,13 @@
+# Rosewood & Co.
+
+> Sample online store for gifts, flower bouquets, cakes and combo gifts. Replace this text with the real business description.
+
+## Main pages
+- [Shop all](https://www.your-domain.com/shop.html)
+- [Flower bouquets](https://www.your-domain.com/bouquets.html)
+- [Cakes](https://www.your-domain.com/cakes.html)
+- [Gifts](https://www.your-domain.com/gifts.html)
+- [Combos](https://www.your-domain.com/combos.html)
+- [Delivery and returns](https://www.your-domain.com/delivery.html)
+- [FAQ](https://www.your-domain.com/faq.html)
+- [Contact](https://www.your-domain.com/contact.html)
